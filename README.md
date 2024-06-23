@@ -21,7 +21,7 @@ This web application serves as an online booking platform for a homestay, demons
 
 • The system checks the availability of rooms for the specified dates and selected room type.
 
-• Upon confirming their reservation, the system then processes the booking, and a confirmation message is displayed.
+• Upon confirming their reservation, the system then processes the booking, and a confirmation message is&nbsp;&nbsp; displayed.
 
 **Admin** 
 
