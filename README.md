@@ -6,7 +6,7 @@ This web application serves as an online booking platform for a homestay, demons
 - **Front-end:** CSS, SCSS, JavaScript
 - **Language:** Java
 - **Build Tool:** Maven
-- **Database: H2** (embedded) 
+- **Database:** H2 database 
 
 # Project Application Flow
 **User** 
