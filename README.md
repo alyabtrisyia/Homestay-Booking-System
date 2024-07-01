@@ -28,10 +28,10 @@ This web application serves as an online booking platform for a homestay, demons
 ### Homestay Web Interface 
 [Watch Video 1](https://drive.google.com/file/d/1NVidQja1mcxfV1b0KJ6cdp1byYdXEogv/view?usp=drive_link)
 
-### Homestay Register-Login-Book
+### Homestay Register-Login-Booking
 [Watch Video 2](https://drive.google.com/file/d/1UfK84Gcnre-WdHaQQUEU_agXENLPbizc/view?usp=drive_link)
 
-### Admin Page Interface
+### Admin Management Page
 [Watch Video 3](https://drive.google.com/file/d/1ZP8Sng7Y-gRoYkFKk8Ejfehww7qzk-Cd/view?usp=drive_link)
 
 
