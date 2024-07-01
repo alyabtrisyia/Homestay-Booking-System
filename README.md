@@ -21,3 +21,18 @@ This web application serves as an online booking platform for a homestay, demons
 - The admin management interface provides a feature to show the list of bookings.
 - Admin have the ability to update rooms. This feature allows them to modify existing room details.
 - Admin have the ability to delete rooms that are no longer available or needed.
+- Admin have the ability to add new room.
+
+# Project Demonstrations
+
+### Homestay Web Interface 
+[Watch Video 1]([https://drive.google.com/file/d/YOUR_VIDEO_ID_1/view?usp=sharing](https://drive.google.com/file/d/1NVidQja1mcxfV1b0KJ6cdp1byYdXEogv/view?usp=drive_link))
+
+### Homestay Register-Login-Book
+[Watch Video 2]([https://drive.google.com/file/d/YOUR_VIDEO_ID_2/view?usp=sharing](https://drive.google.com/file/d/1UfK84Gcnre-WdHaQQUEU_agXENLPbizc/view?usp=drive_link))
+
+### Admin Page Interface
+[Watch Video 3]([https://drive.google.com/file/d/YOUR_VIDEO_ID_3/view?usp=sharing](https://drive.google.com/file/d/1NVidQja1mcxfV1b0KJ6cdp1byYdXEogv/view?usp=drive_link))
+
+
+
