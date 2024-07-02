@@ -32,7 +32,7 @@ This web application serves as an online booking platform for a homestay, demons
 [Watch Video 2](https://drive.google.com/file/d/1UfK84Gcnre-WdHaQQUEU_agXENLPbizc/view?usp=drive_link)
 
 ### Admin Management Page
-[Watch Video 3](https://drive.google.com/file/d/1ZP8Sng7Y-gRoYkFKk8Ejfehww7qzk-Cd/view?usp=drive_link)
+[Watch Video 3](https://drive.google.com/file/d/1qXw36dJFnvEjJmRfBCSJXwPFKoH2RKZc/view?usp=drive_link)
 
 
 
