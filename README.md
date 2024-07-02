@@ -25,14 +25,17 @@ This web application serves as an online booking platform for a homestay, demons
 
 # Project Demonstrations
 
+## Slide Presentation
+[Watch Video 1](https://drive.google.com/file/d/1WA4XTodqgtD5Q3Iu4atqeZoREQi3bL3s/view?usp=drive_link)
+
 ### Homestay Web Interface 
-[Watch Video 1](https://drive.google.com/file/d/1NVidQja1mcxfV1b0KJ6cdp1byYdXEogv/view?usp=drive_link)
+[Watch Video 2](https://drive.google.com/file/d/1NVidQja1mcxfV1b0KJ6cdp1byYdXEogv/view?usp=drive_link)
 
 ### Homestay Register-Login-Booking
-[Watch Video 2](https://drive.google.com/file/d/1UfK84Gcnre-WdHaQQUEU_agXENLPbizc/view?usp=drive_link)
+[Watch Video 3](https://drive.google.com/file/d/1UfK84Gcnre-WdHaQQUEU_agXENLPbizc/view?usp=drive_link)
 
 ### Admin Management Page
-[Watch Video 3](https://drive.google.com/file/d/1qXw36dJFnvEjJmRfBCSJXwPFKoH2RKZc/view?usp=drive_link)
+[Watch Video 4](https://drive.google.com/file/d/1qXw36dJFnvEjJmRfBCSJXwPFKoH2RKZc/view?usp=drive_link)
 
 
 
